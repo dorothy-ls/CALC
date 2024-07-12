@@ -1,0 +1,3 @@
+####readme
+* MCU: STM32G474RE6
+* DIGIT: 5461AS-1
